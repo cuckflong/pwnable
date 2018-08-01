@@ -1,0 +1,1 @@
+Make a symbolic link flag to /home/input2/flag then run the python code
